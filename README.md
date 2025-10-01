@@ -97,26 +97,29 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ![User Story - Creative Solutions_page-0006](https://github.com/user-attachments/assets/6c8fa9ca-4988-49c6-85c4-e68842c9e617)
 
 
+Colab
 
-- [x] Defina o propósito do template;
+- [x] Extratificação de dados de exportação:site MCDIC/GOV;
 
-- [x]  Identifique os elementos principais;
+- [x]  Armazenamento no Pandas/Google drive;
 
-- [x] Esboce o layout;
+- [x] Concatear e juntar dados: Colab;
+      
+ Power BI
+ 
+- [x] Exportações por estado;
 
-- [x] Escolha cores e fontes;
+- [x] Exportações por NCM (tipo de carga);
 
-- [x] Desenvolva o design;
-
-- [x] Teste e revise;
-
-- [x] Documente instruções de uso;
-
-- [x] Download e armazenamento das bases brutas do MDIC (CSV/TXT);
-
-- [x] ETL;
+- [x] Principais países de destino;
 
 - [x] Dashboard Inicial ;      
+
+  GITHUB
+
+- [x] Visionamento inicial;
+
+
  
  
 ## Sprint 2
