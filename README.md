@@ -89,7 +89,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  
 # Backlog do produto
 
- "C:\Users\Fatec\Downloads\correções backlog.pdf"
+ ![correções backlog_page-0001](https://github.com/user-attachments/assets/c01305a1-68e3-433f-8115-47292a11461f)
+![correções backlog_page-0002](https://github.com/user-attachments/assets/b2c8d1eb-317b-4f74-8a8b-b0b9ec30aceb)
+![correções backlog_page-0003](https://github.com/user-attachments/assets/b149e445-bbd7-468a-8612-fff43a212405)
+![correções backlog_page-0004](https://github.com/user-attachments/assets/0e604a0f-e622-43da-b0d5-00a3128c7b33)
+![correções backlog_page-0005](https://github.com/user-attachments/assets/472f0908-fabc-4a0a-817c-962cecd92c07)
+
+
+
  
 ## Sprint 1
 
