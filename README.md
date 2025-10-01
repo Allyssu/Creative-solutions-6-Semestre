@@ -36,7 +36,7 @@ A proposta integra ferramentas acessíveis e práticas ágeis, com foco na gest�
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
-|Scrum Team| Taísa Rodrigues  | 
+|Scrum Team| Taísa Rodrigues  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/agar-prado-3274b71bb](https://www.linkedin.com/in/ta%C3%ADsa-alves-48758b185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 | Product Owner | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Agar-Grazielle)|
 | Scrum Master | Carolina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
 | Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
