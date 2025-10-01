@@ -96,6 +96,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ![correções backlog_page-0005](https://github.com/user-attachments/assets/472f0908-fabc-4a0a-817c-962cecd92c07)
  
 ## Sprint 1
+![User Story - Creative Solutions_page-0003](https://github.com/user-attachments/assets/a6e3f303-3080-4363-99e9-522f03b2b8b3)
+![User Story - Creative Solutions_page-0004](https://github.com/user-attachments/assets/ce900699-9579-4ce4-864e-fe6977b7e0c7)
+![User Story - Creative Solutions_page-0005](https://github.com/user-attachments/assets/c11cd806-12ff-42d7-964b-2be07e8adb44)
+![User Story - Creative Solutions_page-0006](https://github.com/user-attachments/assets/6c8fa9ca-4988-49c6-85c4-e68842c9e617)
+![User Story - Creative Solutions_page-0001](https://github.com/user-attachments/assets/fc5c7840-d17f-4a5a-a2d9-7af9afdd6fe0)
+![User Story - Creative Solutions_page-0002](https://github.com/user-attachments/assets/4a3217a6-42bf-44ed-8200-3596a5722836)
 
 - [x] Defina o propósito do template;
 
