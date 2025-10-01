@@ -1,4 +1,4 @@
-# GTech Solutions
+# Creative Solutions
  
 Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à produção, por meio da metodologia ágil SCRUM, promovendo o uso de ferramentas digitais colaborativas como o GitHub, com foco no desenvolvimento da
 
