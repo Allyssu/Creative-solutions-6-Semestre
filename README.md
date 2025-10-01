@@ -88,6 +88,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 > Liste aqui todas as tecnologias utilizadas para concluir a entrega
  
 # Backlog do produto
+
+ "C:\Users\Fatec\Downloads\correções backlog.pdf"
  
 ## Sprint 1
 
