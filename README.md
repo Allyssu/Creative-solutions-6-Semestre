@@ -32,22 +32,16 @@ A proposta integra ferramentas acessíveis e práticas ágeis, com foco na gest�
  
 # Equipe
 
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+# Autores
+| Função | Nome |  LinkedIn & GitHub |
+| - | - | - |
+|Product Owner| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
+|Scrum Team| Taísa Rodrigues  | 
+| Product Owner | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Agar-Grazielle)|
+| Scrum Master | Carolina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
+| Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+| Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-| Product Owner |   Agar Graziele         |                
-
-| Scrum Master  |Carolina Alana |      
-
-| Team Member   | Allysson Santos             |         
-
-|  Team Member  | Maria Eduarda               |                 
-
-|  Team Member  | Taisa Rodrigues                  |   
-
-|  Team Member  | Thais Eloane       |            |
- 
 # Objetivo do Projeto
 
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
