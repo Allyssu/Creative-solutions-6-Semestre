@@ -97,7 +97,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ![User Story - Creative Solutions_page-0006](https://github.com/user-attachments/assets/6c8fa9ca-4988-49c6-85c4-e68842c9e617)
 
 
-Colab
+# Colab
 
 - [x] Extratificação de dados de exportação:site MCDIC/GOV;
 
@@ -105,7 +105,7 @@ Colab
 
 - [x] Concatear e juntar dados: Colab;
       
- Power BI
+# Power BI
  
 - [x] Exportações por estado;
 
@@ -115,7 +115,7 @@ Colab
 
 - [x] Dashboard Inicial ;      
 
-  GITHUB
+# GITHUB
 
 - [x] Visionamento inicial;
 
