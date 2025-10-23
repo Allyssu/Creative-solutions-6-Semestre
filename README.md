@@ -82,14 +82,24 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
+| ID| Descrição da User Story            | Prioridade | Sprint | 
+| --|------------------------------------| -----------|--------|
+| 1 | Como Secretário de Comércio Exterior, quero visualizar as exportações por estado, tipo de carga e destino internacional, para entender rapidamente o cenário nacional de exportações. | Alta | 1 | 
+| 2 | Como Tomador de decisão, quero analisar os principais países de destino das exportações, para negociar tratados comerciais e evitar dependência excessiva. | Alta | 1 | 
+| 3 | Como Desenvolvedor de BI, quero acessar dados limpos e estruturados para uso no Power BI, para construir dashboards interativos. | Média | 1 | 
+| 4 | Como Equipe Técnica, quero armazenar dados estruturados no MySQL, para manter integridade e facilidade de consulta dos dados. | Média | 1 | 
+| 5 | Como Equipe de Dados, quero limpar e padronizar dados brutos (NCM, estados, países, URFs), para garantir consistência nas análises. | Média | 1 | 
+| 6 | Como Coordenador do Projeto, quero integrar Google Colab integrado ao drive (pandas) e Power BI, para ter um pipeline de análise eficiente e acessível. | Baixa | 1 | 
+| 7 | Como Analista de Comércio Exterior, quero identificar as URFs processadoras das exportações, para entender a logística e os principais canais de saída do país. | Alta | 2 | 
+| 8 | Como gestor, quero acompanhar o fluxo mensal de cargas (simulando um NCM de maior demanda), para identificar padrões e sazonalidade. | Alta | 2 | 
+| 9 | Como Gestor de Produção, quero acessar dashboards dinâmicos com filtros por estado, NCM e país de destino, para comparar dados e identificar tendências. | Alta | 2 | 
+| 10 | Como Gestor de Logística, quero visualizar o fluxo de exportações por URF ao longo do tempo, para otimizar processos logísticos. | Média | 2 | 
+| 11 | Como Analista Econômico, quero analisar a sazonalidade de produtos específicos (3 com maiores demandas), para prever e planejar recursos e políticas. Quero a predeterminação da estatística que será utilizada para determinar esta análise. | Média | 2 | 
+| 12 | Como Secretário de Comércio Exterior, quero indicadores de gestão (utilizando valor agregado), para apoiar decisões para tomar decisões estratégicas embasadas em dados concretos. | Alta | 3 | 
+| 13 | Como Técnico do MDIC, quero identificar os estados com maior processamento de exportações (filtro por estados) para analisar o volume dos canais de saída. | Média | 3 | 
+| 14 | Como Redator Técnico, quero elaborar relatório final para realizar uma análise mais crítica e recomendações, para comunicar resultados aos stakeholders. | Baixa | 3 | 
+| 15 | Como Desenvolvedor, quero implementar interface intuitiva no Power BI com filtros por múltiplos critérios, para que os usuários explorem os dados de forma simples e eficiente. | Baixa | 3 | 
+| 16 | Como Gestor de TI, quero versionar todo o projeto no GitHub, para garantir rastreabilidade e controle de versões. | Baixa | 3 | 
 
 
 
@@ -99,10 +109,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 01/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 29/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 26/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+
+## Sprint 1
+
+## Dados
 
 - [x] Extratificação de dados de exportação:site MCDIC/GOV;
 
@@ -112,7 +126,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
       
 ## Power BI
  
-- [x] Exportações por estado;
+- [x] Exportações por estado (URF);
 
 - [x] Exportações por NCM (tipo de carga);
 
@@ -134,22 +148,4 @@ A fazer
 ## Sprint 3
 
 A fazer 
-
- 
-# Registro das Sprints
- 
-Sprint | Previsão | Status| Histórico|
-
-|------|--------|------|--------|
-
-|01 | 01/10/2025 | Completo| 
-
-|02|  dd/mm/aaaa| a fazer|
-
-|03| dd/mm/aaaa | a fazer|
-
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-
-|Feira de Soluções|dd/mm/aaaa |
-
  
