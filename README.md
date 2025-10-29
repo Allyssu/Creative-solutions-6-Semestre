@@ -18,7 +18,7 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Sprints](#Registro-das-Sprints)
 
-* [Planejamento e Burndown](##JIRA)
+* [Planejamento e Burndown](##Jira)
 
 
  
@@ -157,7 +157,8 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 
 - [x] Estrutura de banco de dados (2020 à 2025) tratada no MySQL. Fonte: site  MCDIC/GOV;
       
-## Power BI - [![PowerBi Badge](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png)](https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae)
+## Power BI
+[![PowerBi Badge](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png)](https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae)
  
 - [x] Painel logistico por URF (localizaçao e volume);
 - [x] Sazonalidade por NCM (produto estudo: cafe);
@@ -165,7 +166,8 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 - [x] Fluxo mensal de exportações;
 - [x] Analises temporais e comparativas   
 
-## JIRA
+## Jira
+
 [![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)]([https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1))
 
 - [x] Backlog do Produto e do Sprint: 
