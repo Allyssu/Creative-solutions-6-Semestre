@@ -10,7 +10,7 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Objetivo do Projeto](#objetivo-do-projeto)
 
-* [Calendário](##Calendário)
+* [Calendário](#Calendário)
 
 * [Tecnologia](#Tecnologias-Utilizadas)
 
@@ -18,7 +18,7 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Sprints](#Registro-das-Sprints)
 
-* [Planejamento e Burndown](##Jira)
+* [Planejamento](#Jira)
 
 
  
@@ -59,7 +59,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 * Desenvolver habilidades técnicas com os entregáveis.
  
-## Calendário
+# Calendário
  
 ![calendário](https://github.com/user-attachments/assets/9345338b-e81c-4450-a84c-ec6a6cfb4ae9)
  
@@ -166,16 +166,15 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 - [x] Fluxo mensal de exportações;
 - [x] Analises temporais e comparativas   
 
-## Jira
+# Jira
 
 [![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)]([https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1))
 
-- [x] Backlog do Produto e do Sprint: 
-- [x] Quadro (Board) Scrum ou Kanban: 
-- [x] Issues (itens de trabalho): 
-- [x] Cronograma (Timeline): 
-- [x] Dashboards (Paineis): 
-- [x] Relatório Burndown e Burnup (Scrum):;
+- [x] Backlog do Produto e do Sprint;
+- [x] Quadro (Board) Scrum;
+- [x] Issues (itens de trabalho);
+- [x] Cronograma (Timeline);
+- [x] Dashboards (Paineis);
 
 ## GITHUB
 
