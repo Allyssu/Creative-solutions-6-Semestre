@@ -90,22 +90,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | ID| Descrição da User Story            | Prioridade | Sprint | Status |
 | --|------------------------------------| -----------|--------|--------|
 | 1 | Como Secretário de Comércio Exterior, quero visualizar as exportações por estado, tipo de carga e destino internacional, para entender rapidamente o cenário nacional de exportações. | Alta | 1 | [x] Entregue |
-| 2 | Como Tomador de decisão, quero analisar os principais países de destino das exportações, para negociar tratados comerciais e evitar dependência excessiva. | Alta | 1 | [x] Entregue |
-| 3 | Como Desenvolvedor de BI, quero acessar dados limpos e estruturados para uso no Power BI, para construir dashboards interativos. | Média | 1 | [x] Entregue |
-| 4 | Como Equipe Técnica, quero armazenar dados estruturados no MySQL, para manter integridade e facilidade de consulta dos dados. | Média | 1 | [x] Entregue |
-| 5 | Como Equipe de Dados, quero limpar e padronizar dados brutos (NCM, estados, países, URFs), para garantir consistência nas análises. | Média | 1 | [x] Entregue |
-| 6 | Como Coordenador do Projeto, quero integrar Google Colab integrado ao drive (pandas) e Power BI, para ter um pipeline de análise eficiente e acessível. | Baixa | 1 | [x] Entregue |
-| 7 | Como Analista de Comércio Exterior, quero identificar as URFs processadoras das exportações, para entender a logística e os principais canais de saída do país. | Alta | 2 | [x] Entregue |
-| 8 | Como gestor, quero acompanhar o fluxo mensal de cargas (simulando o NCM do produto café), para identificar padrões e sazonalidade. | Alta | 2 | [x] Entregue |
-| 9 | Como Gestor de Produção, quero acessar dashboards dinâmicos com filtros por estado, NCM e país de destino, para comparar dados e identificar tendências. | Alta | 2 | [x] Entregue |
-| 10 | Como Gestor de Logística, quero visualizar o fluxo de exportações por URF ao longo do tempo, para otimizar processos logísticos. | Média | 2 | [x] Entregue |
-| 11 | Como Analista Econômico, quero analisar a sazonalidade de produtos específicos (soja, carne e café), para prever e planejar recursos e políticas.| Média | 2 | [x] Entregue |
-| 12 | Como Analista Econômico, quero a predeterminação da estatística que será utilizada para determinar a análise de sazonalidade de produtos.| Média | 3 | [ ] Não Iniciado |
-| 13 | Como Secretário de Comércio Exterior, quero indicadores de gestão (utilizando valor agregado), para apoiar decisões para tomar decisões estratégicas embasadas em dados concretos. | Alta | 3 | [ ] Não Iniciado |
-| 14 | Como Técnico do MDIC, quero identificar os estados com maior processamento de exportações (filtro por estados) para analisar o volume dos canais de saída. | Média | 3 | [ ] Não Iniciado |
-| 15 | Como Redator Técnico, quero elaborar relatório final para realizar uma análise mais crítica e recomendações, para comunicar resultados aos stakeholders. | Baixa | 3 | [ ] Não Iniciado |
-| 16 | Como Desenvolvedor, quero implementar interface intuitiva no Power BI com filtros por múltiplos critérios, para que os usuários explorem os dados de forma simples e eficiente. | Baixa | 3 | [ ] Não Iniciado |
-| 17 | Como Gestor de TI, quero versionar todo o projeto no GitHub, para garantir rastreabilidade e controle de versões. | Baixa | 3 | [ ] Não Iniciado |
+| 2 | Como Tomador de decisão, quero analisar os principais países de destino das exportações, para negociar tratados comerciais e evitar dependência excessiva. | Alta | 1 | Entregue |
+| 3 | Como Desenvolvedor de BI, quero acessar dados limpos e estruturados para uso no Power BI, para construir dashboards interativos. | Média | 1 | Entregue |
+| 4 | Como Equipe Técnica, quero armazenar dados estruturados no MySQL, para manter integridade e facilidade de consulta dos dados. | Média | 1 | Entregue |
+| 5 | Como Equipe de Dados, quero limpar e padronizar dados brutos (NCM, estados, países, URFs), para garantir consistência nas análises. | Média | 1 | Entregue |
+| 6 | Como Coordenador do Projeto, quero integrar Google Colab integrado ao drive (pandas) e Power BI, para ter um pipeline de análise eficiente e acessível. | Baixa | 1 | Entregue |
+| 7 | Como Analista de Comércio Exterior, quero identificar as URFs processadoras das exportações, para entender a logística e os principais canais de saída do país. | Alta | 2 | Entregue |
+| 8 | Como gestor, quero acompanhar o fluxo mensal de cargas (simulando o NCM do produto café), para identificar padrões e sazonalidade. | Alta | 2 | Entregue |
+| 9 | Como Gestor de Produção, quero acessar dashboards dinâmicos com filtros por estado, NCM e país de destino, para comparar dados e identificar tendências. | Alta | 2 | Entregue |
+| 10 | Como Gestor de Logística, quero visualizar o fluxo de exportações por URF ao longo do tempo, para otimizar processos logísticos. | Média | 2 | Entregue |
+| 11 | Como Analista Econômico, quero analisar a sazonalidade de produtos específicos (soja, carne e café), para prever e planejar recursos e políticas.| Média | 2 | Entregue |
+| 12 | Como Analista Econômico, quero a predeterminação da estatística que será utilizada para determinar a análise de sazonalidade de produtos.| Média | 3 | Não Iniciado |
+| 13 | Como Secretário de Comércio Exterior, quero indicadores de gestão (utilizando valor agregado), para apoiar decisões para tomar decisões estratégicas embasadas em dados concretos. | Alta | 3 | Não Iniciado |
+| 14 | Como Técnico do MDIC, quero identificar os estados com maior processamento de exportações (filtro por estados) para analisar o volume dos canais de saída. | Média | 3 | Não Iniciado |
+| 15 | Como Redator Técnico, quero elaborar relatório final para realizar uma análise mais crítica e recomendações, para comunicar resultados aos stakeholders. | Baixa | 3 | Não Iniciado |
+| 16 | Como Desenvolvedor, quero implementar interface intuitiva no Power BI com filtros por múltiplos critérios, para que os usuários explorem os dados de forma simples e eficiente. | Baixa | 3 | Não Iniciado |
+| 17 | Como Gestor de TI, quero versionar todo o projeto no GitHub, para garantir rastreabilidade e controle de versões. | Baixa | 3 | Não Iniciado |
 
 
 
