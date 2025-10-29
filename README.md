@@ -10,15 +10,15 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Objetivo do Projeto](#objetivo-do-projeto)
 
-* [Calendario](##Calendário)
+* [Calendario](#Calendario)
 
-* [Tecnologia](##Tecnologias-Utilizadas)
+* [Tecnologia](#Tecnologias-Utilizadas)
 
 * [Backlog do produto](#Backlog-do-produto)
 
 * [Sprints](#Registro-das-Sprints)
 
-* [Planejamento e Burndown](##JIRA)
+* [Planejamento e Burndown](#JIRA)
 
 
  
