@@ -36,7 +36,7 @@ A proposta integra ferramentas acessíveis e práticas ágeis, com foco na gest�
 | Product Owner | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Agar-Grazielle)|
 |Scrum Team| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
 | Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Team| Taísa Rodrigues  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ta%C3%ADsa-alves-48758b185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge] (https://github.com/)
+|Scrum Team| Taísa Rodrigues  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ta%C3%ADsa-alves-48758b185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
 # Objetivo do Projeto
@@ -107,31 +107,31 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
   
 # Registro das Sprints
 
-| Sprint            | Previsão   | Status   | Apresentação |
+| Sprint            | Previsão   | Status   | Apresentaçao |
 |-------------------|------------|----------|-----------|
-| 01                | 01/10/2025 | Concluído  | [MVP](https://youtu.be/SSWldu2y-N8?si=rsmFglppzKCeRo7E)  |
-| 02                | 29/10/2025 | Em apresentação | [MVP]([MVP/sp2.md](https://youtu.be/SCO8-2U517g?si=1HOgYHA9VLvmFau6)  |
-| 03                | 26/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 01                | 01/10/2025 | Concluido  | [MVP](https://youtu.be/SSWldu2y-N8?si=rsmFglppzKCeRo7E)  |
+| 02                | 29/10/2025 | Em apresentaçao | [MVP](https://youtu.be/SCO8-2U517g?si=1HOgYHA9VLvmFau6)  |
+| 03                | 26/11/2025 | a fazer  | [MVP](#)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
 ## Sprint 1
 
+## Meta da Sprint
+
+Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizações iniciais no Power BI com os dados estruturados por estado, tipo de carga e país de destino.
+
+
 ## Dados
 
 - [x] Extratificação de dados de exportação:site MCDIC/GOV;
-
 - [x]  Armazenamento no Pandas/Google drive;
-
 - [x] Concatear e juntar dados: Colab;
       
 ## Power BI
  
 - [x] Exportações por estado (URF);
-
 - [x] Exportações por NCM (tipo de carga);
-
 - [x] Principais países de destino;
-
 - [x] Dashboard Inicial ;      
 
 ## GITHUB
@@ -143,7 +143,36 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  
 ## Sprint 2
 
-A fazer
+## Meta da Sprint
+
+Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizações iniciais no Power BI com os dados estruturados por estado, tipo de carga e país de destino.
+
+## Dados
+
+- [x] Estrutura de banco de dados (2020 à 2025) tratada no MySQL. Fonte: site  MCDIC/GOV;
+      
+## Power BI - [![PowerBi Badge](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png)](https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae)
+ 
+- [x] Painel logistico por URF (localizaçao e volume);
+- [x] Sazonalidade por NCM (produto estudo: cafe);
+- [x] Filtros interativos (estado, NCM, país destino) dos produtos “TOP 5”;
+- [x] Fluxo mensal de exportações;
+- [x] Analises temporais e comparativas   
+
+## JIRA  - [![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)]([https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1))
+
+- [x] Backlog do Produto e do Sprint: 
+- [x] Quadro (Board) Scrum ou Kanban: 
+- [x] Issues (itens de trabalho): 
+- [x] Cronograma (Timeline): 
+- [x] Dashboards (Paineis): 
+- [x] Relatório Burndown e Burnup (Scrum):;
+
+## GITHUB
+
+- [x] Visionamento 1;
+
+
  
 ## Sprint 3
 
