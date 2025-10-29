@@ -162,7 +162,7 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
  
 - [x] Painel logistico por URF (localizaçao e volume);
 - [x] Sazonalidade por NCM (produto estudo: cafe);
-- [x] Filtros interativos (estado, NCM, país destino) dos produtos “TOP 5”;
+- [x] Filtros interativos (estado, NCM, país destino);
 - [x] Fluxo mensal de exportações;
 - [x] Analises temporais e comparativas   
 
