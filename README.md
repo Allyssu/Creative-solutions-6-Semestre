@@ -89,7 +89,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | ID| Descrição da User Story            | Prioridade | Sprint | Status |
 | --|------------------------------------| -----------|--------|--------|
-| 1 | Como Secretário de Comércio Exterior, quero visualizar as exportações por estado, tipo de carga e destino internacional, para entender rapidamente o cenário nacional de exportações. | Alta | 1 | [x] Entregue |
+| 1 | Como Secretário de Comércio Exterior, quero visualizar as exportações por estado, tipo de carga e destino internacional, para entender rapidamente o cenário nacional de exportações. | Alta | 1 | Entregue |
 | 2 | Como Tomador de decisão, quero analisar os principais países de destino das exportações, para negociar tratados comerciais e evitar dependência excessiva. | Alta | 1 | Entregue |
 | 3 | Como Desenvolvedor de BI, quero acessar dados limpos e estruturados para uso no Power BI, para construir dashboards interativos. | Média | 1 | Entregue |
 | 4 | Como Equipe Técnica, quero armazenar dados estruturados no MySQL, para manter integridade e facilidade de consulta dos dados. | Média | 1 | Entregue |
