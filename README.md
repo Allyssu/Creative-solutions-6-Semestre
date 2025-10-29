@@ -14,7 +14,7 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Tecnologia](#Tecnologias-Utilizadas)
 
-* [Backlog do produto](#Backlog-do-produto)
+* [Backlog do produto](#Product-Backlog)
 
 * [Sprints](#Registro-das-Sprints)
 
@@ -165,7 +165,8 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 - [x] Fluxo mensal de exportações;
 - [x] Analises temporais e comparativas   
 
-## JIRA  - [![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)]([https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1))
+## JIRA
+[![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)]([https://app.powerbi.com/links/FoWAq-eZU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6347782b-ae82-4c73-917c-1ef52e61ddae](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1))
 
 - [x] Backlog do Produto e do Sprint: 
 - [x] Quadro (Board) Scrum ou Kanban: 
