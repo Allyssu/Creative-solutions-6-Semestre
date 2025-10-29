@@ -10,11 +10,17 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Objetivo do Projeto](#objetivo-do-projeto)
 
-* [Sprints](#Sprints)
+* [Calendario](##Calendário)
 
-* [Burndown](#Burndown)
+* [Tecnologia](##Tecnologias-Utilizadas)
 
 * [Backlog do produto](#Backlog-do-produto)
+
+* [Sprints](#Registro-das-Sprints)
+
+* [Planejamento e Burndown](##JIRA)
+
+
  
 # Projeto (API) 
 
