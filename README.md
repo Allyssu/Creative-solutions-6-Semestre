@@ -178,7 +178,7 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 
 ## GITHUB
 
-- [x] Visionamento 1;
+- [x] Versionamento 1;
 
 
  
