@@ -170,9 +170,9 @@ Estabelecer a base técnica do projeto com dados de 2025 e entregar visualizaç�
 
 [![Jira Badge](https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg)](https://allysaantos22.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
-- [x] Backlog do Produto e do Sprint;
+- [x] Backlog do Produto e das Sprints;
 - [x] Quadro (Board) Scrum;
-- [x] Issues (itens de trabalho);
+- [x] Issues (Itens de trabalho);
 - [x] Cronograma (Timeline);
 - [x] Dashboards (Paineis);
 
